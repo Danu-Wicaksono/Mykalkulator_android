@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKalkulator</string>
+
+    <string-array name="names">
+        <item>Menu</item>
+        <item>ListView</item>
+    </string-array>
+
+</resources>
+
